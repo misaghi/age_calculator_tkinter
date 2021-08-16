@@ -8,5 +8,5 @@ Note that there maybe some problem with the age calcualtor formula. Please notif
 Also I will appreciate your thoughts and ideas.
 
 To run the code:
-1. Download the codes and place them in a folder.
-2. Then run the age_calculator.py with python or open it in a text editor and then run it there.
+1. Download the codes and images, then place them in a folder.
+2. Then run the age_calculator.py with python in terminal or open it in a text editor and then run it there.
